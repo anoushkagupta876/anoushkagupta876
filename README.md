@@ -76,7 +76,7 @@ I do alot of things!
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=white)
 
-#### Find Me:
+#### I do:
 
 ![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue)
 ![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-%232C3454.svg?style=for-the-badge&logo=FrontendMentor&logoColor=Blue)
