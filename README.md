@@ -1,9 +1,7 @@
 # Hi, I'm Anoushka Gupta! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 
 [<img align="left" alt="tassiaaccioly | LinkedIn" width="22px" src="./linkedin.png" />][linkedin]
-[<img align="left" alt="tassia.accioly | Gmail" width="22px" src="./gmail.png![gmail](https://user-images.githubusercontent.com/63289179/122592423-e0742a00-d081-11eb-812f-43b4d55eac91.png)
-![linkedin](https://user-images.githubusercontent.com/63289179/122592560-0dc0d800-d082-11eb-9942-276381a54c03.png)
-" />][gmail]
+[<img align="left" alt="tassia.accioly | Gmail" width="22px" src="./gmail.png" />][gmail]
 
 <br>
 <br>
