@@ -79,8 +79,8 @@ I do alot of things!
 #### I do:
 
 ![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue)
-![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-%232C3454.svg?style=for-the-badge&logo=FrontendMentor&logoColor=Blue)
-![Medium](https://img.shields.io/badge/-Mdeium-black?style=for-the-badge&logo=medium&logoColor=white)
+![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-blue.svg?style=for-the-badge&logo=FrontendMentor&logoColor=Blue)
+![Medium](https://img.shields.io/badge/-Medium-darkgreen?style=for-the-badge&logo=medium&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-black?style=for-the-badge&logo=notion&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-%23EA5252.svg?style=for-the-badge&logo=Udemy&logoColor=white)
 
