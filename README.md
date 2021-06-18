@@ -8,7 +8,7 @@
 
 I do alot of things!
 - 💞️ Algorithms, Logic, Testing, UI/UX, Web Design and Web Development are a few of them!
-- 👀 Topics that intrique me -  Color Palletes, AI and Software Architecture.
+- 👀 Topics that intrique me -  Color Palettes, AI and Software Architecture.
 - 🎹 📸 🃏 🎨 💰 ![YouTube](<https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white>) are somethings I do for fun!
 - 📝 [GUIDE TO A WELL-BALANCED COLOR PALETTE](https://www.notion.so/How-do-I-create-a-well-balanced-colour-template-26899f799c0d47428e3061e043b6cc99)
 
