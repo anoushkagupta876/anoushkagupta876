@@ -13,6 +13,12 @@ I do alot of things!
 - 📝 [GUIDE TO A WELL-BALANCED COLOR PALETTE](https://www.notion.so/How-do-I-create-a-well-balanced-colour-template-26899f799c0d47428e3061e043b6cc99)
 
 
+### Latest Projects:
+- W-Search
+- Pat-On
+- I.M.G
+- Letter-ASCII
+
 ### My Stack
 
 #### Languages:
