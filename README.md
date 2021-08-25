@@ -14,10 +14,15 @@ I do alot of things!
 
 
 ### Latest Projects:
+- Biquadris
 - W-Search
 - Pat-On
 - I.M.G
-- Letter-ASCII
+
+### Web Dev Projects:
+- [Piano]()
+- [Forecast](https://anoushkagupta876.github.io/forecast/)
+- [Quick-Relax]()
 
 ### My Stack
 
