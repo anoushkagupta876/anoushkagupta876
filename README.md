@@ -95,6 +95,8 @@ I do alot of things!
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=white)
 
+<!-- 
+
 #### I do:
 
 ![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue)
@@ -103,7 +105,7 @@ I do alot of things!
 ![Notion](https://img.shields.io/badge/-Notion-black?style=for-the-badge&logo=notion&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-%23EA5252.svg?style=for-the-badge&logo=Udemy&logoColor=white)
 
-<!-- ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+![Trello](https://img.shields.io/badge/-Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) -->
 
 
