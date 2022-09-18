@@ -14,15 +14,15 @@ I do alot of things!
 
 
 ### Latest Projects:
-- Biquadris
+- [Biquadris](https://github.com/anoushkagupta876/biquadris)
 - W-Search
 - Pat-On
 - I.M.G
 
 ### Web Dev Projects:
-- [Piano]()
+- [Piano](https://anoushkagupta876.github.io/piano/)
 - [Forecast](https://anoushkagupta876.github.io/forecast/)
-- [Quick-Relax]()
+- [Quick-Relax](https://quickrelax.netlify.app)
 
 ### My Stack
 
