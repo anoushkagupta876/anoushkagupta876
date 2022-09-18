@@ -4,13 +4,16 @@
 [<img align="left" alt="tassia.accioly | Gmail" width="22px" src="./gmail.png" />][gmail]
 
 <br>
-<br>
+
+### **I'm a FullStack Web Developer with an eye for design!**
 
 I do alot of things!
 - 💞️ Algorithms, Logic, Testing, UI/UX, Web Design and Web Development are a few of them!
 - 👀 Topics that intrique me -  Color Palettes, AI and Software Architecture.
+
+<!--
 - 🎹 📸 🃏 🎨 💰 ![YouTube](<https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white>) are somethings I do for fun!
-- 📝 [GUIDE TO A WELL-BALANCED COLOR PALETTE](https://www.notion.so/How-do-I-create-a-well-balanced-colour-template-26899f799c0d47428e3061e043b6cc99)
+- 📝 [GUIDE TO A WELL-BALANCED COLOR PALETTE](https://www.notion.so/How-do-I-create-a-well-balanced-colour-template-26899f799c0d47428e3061e043b6cc99) -->
 
 
 ### Latest Projects:
@@ -33,11 +36,11 @@ I do alot of things!
 ![Javascript](https://img.shields.io/badge/-JavaScript-EDD222?style=for-the-badge&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-<!-- ![Google App Script](https://img.shields.io/badge/-Google%20App%20Script-red?style=for-the-badge&logo=app-script%2B%2B&logoColor=white) -->
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgresSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Racket](https://img.shields.io/badge/-Racket-0175C2?style=for-the-badge&logo=racket&logoColor=white)
 ![R](https://img.shields.io/badge/-R-blue?style=for-the-badge&logo=R&logoColor=white)
+<!-- ![Google App Script](https://img.shields.io/badge/-Google%20App%20Script-red?style=for-the-badge&logo=app-script%2B%2B&logoColor=white) -->
 
 
 
